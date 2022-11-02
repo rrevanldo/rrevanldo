@@ -19,10 +19,8 @@ Languages and Tools
 ![image](https://user-images.githubusercontent.com/91299304/199376810-88835e04-ae28-422a-bbe1-0e4dc859a115.png)
 ![image](https://user-images.githubusercontent.com/91299304/199376858-e772dc05-cea2-4000-891b-71ade4f355b3.png)
 ![image](https://user-images.githubusercontent.com/91299304/199376889-22caa44c-8f09-4d08-85f7-69dc5b43b737.png)
-![image](https://user-images.githubusercontent.com/91299304/199377020-d43edec7-798e-4aa8-961b-630104d676cb.png)
-![image](https://user-images.githubusercontent.com/91299304/199377075-f4653153-ccd4-49d8-8e53-d2754ff9fc44.png)
-![image](https://user-images.githubusercontent.com/91299304/199377101-9faba96d-c738-4941-8ece-0a6b1a17b3e7.png)
-![image](https://user-images.githubusercontent.com/91299304/199377120-2c137430-6d1a-4bd3-97d2-d96318bbae21.png)
+
+
 
 
 - 👋 Hi, I’m @revanrion08
