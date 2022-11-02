@@ -1,35 +1,27 @@
-Hi , I'm Dean I'm a Fullstack developer
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Revan Rionaldo</h1>
+<h3 align="center">I'm a Fullstack developer</h3>
 
-About Me
+## ⚙️Languages and Tools
 
-🌱 I’m currently learning C#
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/tailwind.svg"/> </a> 
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/node-js.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/php.svg"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/c%23.svg"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/android.png" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/kotlin.png" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/git.png" width="40" height="40"/> </a>
+</p>
 
-📫 How to reach me revanrionaldo08@gmail.com
+## Connect with me:
+<p align="center">
 
-⚡ Fun fact I play games and code every day.
+<a href = "https://id.linkedin.com/in/revan-rionaldo-1b3ab021b"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/kzhamuran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-Languages and Tools
-
-
-![image](https://user-images.githubusercontent.com/91299304/199376036-67e536d9-b18d-45b4-b320-1d7f61491b05.png)
-![image](https://user-images.githubusercontent.com/91299304/199376154-113dd7f0-9363-4e35-982f-e76d15f9551f.png)
-![image](https://user-images.githubusercontent.com/91299304/199376174-382cc2d7-6cd1-4be5-8225-f1d56878ba58.png)
-![image](https://user-images.githubusercontent.com/91299304/199376193-5f053daa-3bdb-4521-9f6a-3f4759c69748.png)
-![image](https://user-images.githubusercontent.com/91299304/199376712-98d02375-30a5-4862-8cc6-4cb4acddd328.png)
-![image](https://user-images.githubusercontent.com/91299304/199376810-88835e04-ae28-422a-bbe1-0e4dc859a115.png)
-![image](https://user-images.githubusercontent.com/91299304/199376858-e772dc05-cea2-4000-891b-71ade4f355b3.png)
-![image](https://user-images.githubusercontent.com/91299304/199376889-22caa44c-8f09-4d08-85f7-69dc5b43b737.png)
-
-
-
-
-- 👋 Hi, I’m @revanrion08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-revanrion08/revanrion08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
