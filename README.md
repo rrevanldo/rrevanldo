@@ -18,13 +18,7 @@
   <a href="" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/git.png" width="40" height="40"/> </a>
 </p>
 
-## Connect with me:
-<p align="center">
-### 📫 You can reach me on:
-- LinkedIn: [Siti Nuraeni](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
-- Instagram: [aeninrnii](https://www.instagram.com/kzhamuran/)
-    
-<a href = "https://id.linkedin.com/in/revan-rionaldo-1b3ab021b"></a>
-<a href = "https://www.instagram.com/kzhamuran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## 📫 Connect with me:
+- LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
+- Instagram: [dean](https://www.instagram.com/kzhamuran/)
 
-</p>
