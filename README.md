@@ -17,6 +17,10 @@
   <a href="https://developer.android.com/kotlin?gclid=CjwKCAjwh4ObBhAzEiwAHzZYU8CbXFeO-LvPANNrr3vgfg9xGjA3rS_FaeogtsNKcS-sk9Fk9n6CQhoCV1cQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/kotlin.png" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://github.com/inialdan/inialdan/raw/master/assets/images/git.png" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://o.remove.bg/downloads/3b4537f7-a8b2-401b-9e03-46959ed6761b/555px-Vue.js_Logo_2.svg-removebg-preview.png" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  
 </p>
 
