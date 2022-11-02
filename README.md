@@ -1,3 +1,17 @@
+Hi , I'm Dean
+I'm a Fullstack developer
+About Me
+🌱 I’m currently learning C#
+
+🌐 Visit my website https://kvn.netlify.app/
+
+📫 How to reach me revanrionaldo08@gmail.com
+
+⚡ Fun fact I play games and code every day.
+
+Languages and Tools
+
+
 - 👋 Hi, I’m @revanrion08
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
