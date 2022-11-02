@@ -20,8 +20,11 @@
 
 ## Connect with me:
 <p align="center">
-
-<a href = "https://id.linkedin.com/in/revan-rionaldo-1b3ab021b"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+### 📫 You can reach me on:
+- LinkedIn: [Siti Nuraeni](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
+- Instagram: [aeninrnii](https://www.instagram.com/kzhamuran/)
+    
+<a href = "https://id.linkedin.com/in/revan-rionaldo-1b3ab021b"></a>
 <a href = "https://www.instagram.com/kzhamuran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
