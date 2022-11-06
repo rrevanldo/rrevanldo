@@ -34,7 +34,7 @@
  
 </p>
 
-## 📫 You can reach me on::
+## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
 - Instagram: [dean](https://www.instagram.com/kzhamuran/)
 
