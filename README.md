@@ -30,6 +30,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/Nivth/icon/blob/main/expressjs.svg"/> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/> </a>
  
 </p>
 
