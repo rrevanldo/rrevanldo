@@ -33,6 +33,9 @@
     <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/> </a>
 </p>
 
+## 🌐My Github Stats
+  <br/>
+  
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=revanrion08&show_icons=true&theme=tokyonight"
@@ -44,6 +47,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=revanrion08&show_icons=true" />
 </picture>
+
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanrion08&layout=compact&theme=tokyonight)](https://github.com/revanrion08/github-readme-stats)
 
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
