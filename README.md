@@ -60,6 +60,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanrion08&layout=compact&theme=tokyonight)](https://github.com/revanrion08/github-readme-stats)
 
+<br />
+<br />
+<br />
+
+[![Revan Rionaldo's github activity graph](https://activity-graph.herokuapp.com/graph?username=revanrion08&theme=tokyo-night)](https://github.com/revanrion08/github-readme-activity-graph)
+
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
 - Instagram: [dean](https://www.instagram.com/kzhamuran/)
