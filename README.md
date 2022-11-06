@@ -23,6 +23,9 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ50fNnU_-do8lIffZiugV-TqMpBAhoMPK8OQ&usqp=CAU" width="40" height="40"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.changelog.com/uploads/icons/topics/nnG/icon_small.png?v=63694227909" width="40" height="40"/> </a>
+    <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="40" height="40"/> </a>
  
 </p>
 
