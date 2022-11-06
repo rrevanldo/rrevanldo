@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Revan Rionaldo</h1>
 <h3 align="center">I'm a Fullstack developer</h3>
 
-## ⚙️Languages and Tools
+## ⚙️ Languages and Tools
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -39,7 +39,7 @@
     </a>
 </p>
 
-## 🌐My Github Stats
+## 🌐 My Github Stats
   <br/>
   
 <picture>
