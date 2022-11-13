@@ -61,4 +61,8 @@
 <br/>
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=revanrion08&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=revanrion08)
+<br/>
+<br/>
+
 [![Revan Rionaldo's github activity graph](https://activity-graph.herokuapp.com/graph?username=revanrion08&theme=tokyo-night)](https://github.com/revanrion08/github-readme-activity-graph)
