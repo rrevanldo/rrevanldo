@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Revan Rionaldo</h1>
-<h3 align="center">I'm a Fullstack developer</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Revan Rionaldo</h3>
+<h4 align="center">I'm a Fullstack developer</h4>
 
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
