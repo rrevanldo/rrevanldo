@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Revan Rionaldo</h1>
 <h3 align="center">I'm a Fullstack developer</h3>
 
+## 📫 You can reach me on:
+- LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
+- Instagram: [dean](https://www.instagram.com/kzhamuran/)
+
 ## ⚙️ Languages and Tools
 
 <p align="left"> 
@@ -65,8 +69,3 @@
 <br />
 
 [![Revan Rionaldo's github activity graph](https://activity-graph.herokuapp.com/graph?username=revanrion08&theme=tokyo-night)](https://github.com/revanrion08/github-readme-activity-graph)
-
-## 📫 You can reach me on:
-- LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
-- Instagram: [dean](https://www.instagram.com/kzhamuran/)
-
