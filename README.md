@@ -40,7 +40,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanrion08&layout=compact&theme=tokyonight)](https://github.com/revanrion08/github-readme-stats)
 
 ## 🌐 My Github Stats
-  <br/>
   
 <p align="left">
     <a>
