@@ -1,6 +1,12 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, &nbsp I'm Revan Rionaldo</h2>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
+## About Me
+Hello! my name is Revan Rionaldo, can be called Revan.  
+I am currently a student of Year 11.  
+Software Engineering at SMK Wikrama Bogor.  
+I am currently honing and developing my skills in the Full Stack Developer.
+
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
 - Instagram: [abcddean](https://www.instagram.com/abcddean/)
