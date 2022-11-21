@@ -5,7 +5,7 @@
 - 👋 Hello! my name is Revan Rionaldo, can be called Revan
 - 👀 I'm currently a student of Year 11
 - 🌱 I’m Software Engineering at SMK Wikrama Bogor
-- 💞️ I am currently honing and developing my skills in the Full Stack Developer
+- 💞️ I'm currently honing and developing my skills in the Full Stack Developer
 
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
