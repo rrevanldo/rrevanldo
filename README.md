@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer</h3>
 
 ## About Me
-- 👋 Hello! my name is Revan Rionaldo, can be called Revan
+- 👋 Hello! my name is Revan Rionaldo, can be called Dean
 - 👀 I'm currently a student of Year 11
 - 🌱 I’m Software Engineering at SMK Wikrama Bogor
 - 💞️ I'm currently honing and developing my skills in the Full Stack Developer
