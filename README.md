@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, &nbsp I'm Revan Rionaldo</h2>
-<h3 align="center">I'm a Full Stack Developer</h3>
+<h3 align="center">I'm a Backend Developer</h3>
 
 ## About Me
 - 👋 Hello! my name is Revan Rionaldo, can be called Dean
