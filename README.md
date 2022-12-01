@@ -1,8 +1,9 @@
-## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-- 👋 Im Revan Rionaldo, can be called Dean
-- 👀 I'm currently a student of Year 11
-- 🌱 I’m Software Engineering at SMK Wikrama Bogor
-- 💞️ I'm currently honing and developing my skills in the Full Stack Developer
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px">
+
+- 👋 I’m Revan Rionaldo, can be called Dean
+- 👀 I'm interested in programming languages
+- 🌱 I'm studying at SMK Wikrama Bogor
+- 💞️ Software and Game Development Major
 
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
