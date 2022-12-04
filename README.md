@@ -41,32 +41,13 @@
     <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deandra25&layout=compact&theme=tokyonight)](https://github.com/deandra25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deandra25&layout=compact&theme=tokyonight)](https://github.com/deandra25)
 
 ## 🌐 My Github Stats
-  
+
 <p align="left">
-    <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Revan's streak" src="https://streak-stats.demolab.com?user=deandra25&theme=tokyonight"/>
-    </a>
+<a href="https://github.com/deandra25">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deandra25&theme=tokyonight&show_icons=true"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=deandra25&theme=tokyonight"/>
+</a>
 </p>
-  
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=deandra25&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=deandra25&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=deandra25&show_icons=true" />
-</picture>
-<br/>
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=deandra25&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=deandra25)
-<br/>
-<br/>
-
-[![Revan Rionaldo's github activity graph](https://activity-graph.herokuapp.com/graph?username=deandra25&theme=tokyo-night)](https://github.com/deandra25/github-readme-activity-graph)
