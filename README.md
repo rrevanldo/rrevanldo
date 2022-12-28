@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px">
 
-- 👋 I’m Revan Rionaldo, can be called Dean
+- 👋 I’m Revan Rionaldo, can be called Revan
 - 👀 I'm interested in programming languages
 - 🌱 I'm studying at SMK Wikrama Bogor
 - 💞️ Software and Game Development Major
