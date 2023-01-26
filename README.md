@@ -41,7 +41,7 @@
     <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanrion08&layout=compact&theme=tokyonight)](https://github.com/revanrion08)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanrion08&layout=compact&theme=tokyonight)](https://github.com/revanrion08/github-readme-stats)
 
 ## 🌐 My Github Stats
 
