@@ -7,7 +7,7 @@
 
 ## 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
-- Instagram: [abcdecilll](https://www.instagram.com/abcdecilll/)
+- Instagram: [thinacill](https://www.instagram.com/thinacill/)
 
 ## ⚙️ Languages and Tools
 
