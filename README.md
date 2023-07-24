@@ -28,6 +28,7 @@
 ### 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
 - Instagram: [rrevanldo](https://www.instagram.com/rrevanldo/)
+- Twitter: [rrevanldo](https://twitter.com/rrevanldo)
 
 ### 🌐 My Github Stats
 
