@@ -25,6 +25,8 @@
     <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
     <code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+    <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-sass-226054.png"></code>
+    <code><img height="20" src="https://image.pngaaa.com/114/4840114-middle.png"></code>
 </p>
 
 
