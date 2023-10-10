@@ -26,7 +26,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrion&layout=compact&theme=tokyonight)](https://github.com/imrion/github-readme-stats) -->
 
 ### 📫 You can reach me on:
-- LinkedIn: [Revan Rionaldo](https://id.linkedin.com/in/revan-rionaldo-1b3ab021b/)
+- LinkedIn: [Revan Rionaldo](https://www.linkedin.com/in/revanrionaldo/)
 - Instagram: [rrevanldo](https://www.instagram.com/rrevanldo/)
 - Twitter: [rrevanldo](https://twitter.com/rrevanldo)
 
