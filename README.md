@@ -23,7 +23,7 @@
   <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-sass-226054.png"></code>
   <code><img height="20" src="https://image.pngaaa.com/114/4840114-middle.png"></code>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrion&layout=compact&theme=tokyonight)](https://github.com/imrion/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrevanldo&layout=compact&theme=tokyonight)](https://github.com/rrevanldo/github-readme-stats) -->
 
 ### 📫 You can reach me on:
 - LinkedIn: [Revan Rionaldo](https://www.linkedin.com/in/revanrionaldo/)
@@ -32,5 +32,5 @@
 
 ### 🌐 My Github Stats
 
-<a href="https://github.com/rrevanldo"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=imrion&theme=tokyonight&show_icons=true"/></a>
-&nbsp; <a href="https://github.com/rrevanldo"><img height="150em"  src="https://streak-stats.demolab.com/?user=imrion&theme=tokyonight"/></a>
+<a href="https://github.com/rrevanldo"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=rrevanldo&theme=tokyonight&show_icons=true"/></a>
+&nbsp; <a href="https://github.com/rrevanldo"><img height="150em"  src="https://streak-stats.demolab.com/?user=rrevanldo&theme=tokyonight"/></a>
