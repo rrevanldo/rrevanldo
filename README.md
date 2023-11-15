@@ -32,5 +32,5 @@
 
 ### 🌐 My Github Stats
 
-<a href="https://github.com/imrion"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=imrion&theme=tokyonight&show_icons=true"/></a>
-&nbsp; <a href="https://github.com/imrion"><img height="150em"  src="https://streak-stats.demolab.com/?user=imrion&theme=tokyonight"/></a>
+<a href="https://github.com/rrevanldo"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=imrion&theme=tokyonight&show_icons=true"/></a>
+&nbsp; <a href="https://github.com/rrevanldo"><img height="150em"  src="https://streak-stats.demolab.com/?user=imrion&theme=tokyonight"/></a>
